@@ -7,4 +7,4 @@ to branch this file, go on the main screen about this repository, then go under 
 
 to merge this file,
 
-to pull request this file, 
+to pull request this file, go the the pull request option. Then select the change that you have in mind and compare it to what is you already have. Then click the green button at the bottom of the page to notify others on what the updrates will be.
