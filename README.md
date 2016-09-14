@@ -1,4 +1,4 @@
-# comprog
+computer programming asignment 1
 actual copy
 
 to commit this file, scroll down to the bottom of the page and click commit
