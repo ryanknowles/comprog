@@ -12,4 +12,4 @@ to pull request this file, go the the pull request option. Then select the chang
 
 
 This file is committed because it is on the screen right now.
-I have a branch called master but also created another one called master2.
+I have a branch called master but also created another one called -patch-1.
